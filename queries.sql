@@ -99,3 +99,15 @@ WHERE de.to_date = ('9999-01-01')
 ;
 SELECT * FROM current_emp
 ;
+-- employee count by department number
+SELECT COUNT(ce.emp_no), 
+	de.dept_no
+INTO emp_count_by_dept	
+FROM current_emp AS ce 
+LEFT JOIN dept_emp AS de
+ON ce.emp_no = de.emp_no
+GROUP BY de.dept_no
+ORDER BY de.dept_no
+;
+SELECT * FROM emp_count_by_dept
+;
