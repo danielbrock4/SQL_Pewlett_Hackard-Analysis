@@ -111,3 +111,6 @@ ORDER BY de.dept_no
 ;
 SELECT * FROM emp_count_by_dept
 ;
+SELECT * FROM salaries
+ORDER BY to_date DESC
+;
