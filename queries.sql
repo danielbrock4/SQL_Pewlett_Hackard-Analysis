@@ -199,3 +199,12 @@ SELECT *
 INTO sales_dev_retirement_list
 FROM dept_info
 WHERE dept_name IN ('Sales', 'Development')
+;
+SELECT * FROM dept_info;
+SELECT *
+INTO mentor_info
+FROM dept_info
+WHERE dept_name IN ('Sales', 'Development')
+;
+DROP TABLE sales_dev_retirement_list
+;
