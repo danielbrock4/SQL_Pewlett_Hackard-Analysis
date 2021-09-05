@@ -3,15 +3,17 @@
 ## Resources
 
 - **Data Sources:** 
-  - [clean_students_complete.csv](Resources/clean_students_complete.csv)
-  - [missing_grades.csv](Resources/missing_grades.csv)
-  - [schools_complete.csv](Resources/schools_complete.csv)
-  - [students_complete.csv](Resources/students_complete.csv)
-- **Software:** Python 3.7.10, Jupyter Lab Server 1.4.1, Visual Code Editor, Pandas, Numpy
+  - [departments.csv](Resources/departments.csv)
+  - [dept_emp.csv](Resources/dept_emp.csv)
+  - [dept_manager.csv](Resources/dept_manager.csv)
+  - [employees.csv](Resources/employees.csv)
+  - [titles.csv](Resources/titles.csv)
+  - [salaries.csv](Resources/salaries.csv)
+- **Software:** PostgresSQL, PgAdmin, QuickDB, SQL
 
 ## Challenge Project Overview 
 
-Using Jupyter Lab, Python, and the Pandas library, I analyzed PyberCitySchools district data and showcased trends in school performance. During this analysis, I read raw data from CSV files, inspected and cleaned data, merged datasets, performed mathematical calculations, and visualized the data with charts and graphs to tell a story. 
+Using PostgreSQL techniques, I performed data modeling and completed analysis on Pewlett Hackard's employee database. First, I created an entity-relationship diagram (ERD) using QuickDB to design our database. Using PostgresSQL, I imported large CSV datasets into pgAdmin to create tables, queries and execute joins to use that data to answer questions asked by Pewlett Hackard's. Finally, we exported the results in CSVs for the client.
 
 ## Challange Project Analysis
 
