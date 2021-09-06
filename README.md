@@ -33,5 +33,4 @@ Using PostgreSQL techniques, I performed data modeling and completed analysis on
   - ![mentorship_eligibilitytable](Images/Fig4.PNG)
 
 ## Challange Project Summary
-As 57,668 positions are Senior positions who are retiring, so there will be a skilled laborer gap. The new mentorship eligibility tables hold the solution. The sooner we can induct the Senior positions into the mentorship program, we pivot their skills sets to train the next generations of Senior positions.  
-
+As 57,668 positions are Senior positions who are retiring, so it's apparent there will be a skilled laborer gap. The new mentorship eligibility table may hold the solution. The sooner we can induct the Senior positions into the mentorship program, we can pivot their skills sets to train the next generations of Senior positions. There are only 1098 Senior Positions eligible in the mentorship programs, so most of the new senior staff will have to be new hires. However, we must maintain our program is strictly a mentorship role instead of direct training. The mentors will need to be the point of contact that helps our new senior positions adapt to Pewlett Hackard processes. 
