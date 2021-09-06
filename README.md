@@ -1,5 +1,4 @@
-
-#Module 7: Employee Database with SQL
+# Module 7: Employee Database with SQL
 ## Resources
 
 - **Data Sources:** 
