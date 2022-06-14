@@ -1,4 +1,4 @@
-Employee Database with PostgreSQL
+# Employee Database with PostgreSQL
 ## Resources
 
 - **Data Sources:** 
