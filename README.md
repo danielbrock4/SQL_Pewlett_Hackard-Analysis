@@ -1,4 +1,4 @@
-# Module 7: Employee Database with SQL
+Employee Database with PostgreSQL
 ## Resources
 
 - **Data Sources:** 
